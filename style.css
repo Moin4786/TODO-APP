@@ -1,0 +1,36 @@
+button{
+    height:20px;
+    width: 30px;
+    background-image: url("images/add.webp");
+    background-size: cover;
+    cursor: pointer;
+    border: 0cm;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px rgb(78, 40, 113);
+}
+h1{
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-left: 80px;
+    color: rgb(78, 40, 113);
+}
+.body{
+    border-style: solid;
+    margin-left: 350px;
+    margin-right: 350px;
+    padding-bottom: 400px; 
+    border-color: rgb(81, 129, 184); 
+    box-shadow: 2px 2px 4px 4px  rgb(39, 47, 56);
+    background-color: aliceblue;
+    
+}
+h3{
+    padding-left: 125px;
+    color: rgb(42, 91, 103);
+}
+#input{
+    padding-left: 90px;
+    padding-right: 10px;
+}
+body{
+    background-color: antiquewhite;
+}
